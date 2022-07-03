@@ -1,13 +1,27 @@
-header footer {
+header  {
   background-color: #1f2937;
 }
 
-.button .call-to-action {
+footer  {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.call-to-action {
   background-color: #3882f6;
+}
+button  {
+ background-color:  #3882f6;
 }
 
 .quote {
   background-color: #e5e7eb;
+}
+
+blockquote  {
+  font-size: 36px;
+  font-weight: light italic;
+  color: #1f2937;
 }
 
 .Hero-header h1 {
@@ -15,12 +29,23 @@ header footer {
   font-weight: extra-bold;
   color: #f9faf8;
 }
-.Hero-header p .hlink {
+.Hero-header p {
   font-size: 18px;
   color: #e5e7eb;
 }
 .logo{
   font-size: 24px;
   color: #f9faf8;
+}
+
+.hlink {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.info {
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1f2937;
 }
 
